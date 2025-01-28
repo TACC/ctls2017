@@ -10,8 +10,7 @@ Participants should bring their laptops and plan to participate actively. Laptop
 ## Instructors: 
 ### [Joe Allen, Brian Beck, James Carson, Erik Ferlanti, John Fonner, Jawon Song, Greg Zynda](docs/instructors.md)
 
-## Etherpad
-[https://public.etherpad-mozilla.org/p/ctls2017](https://public.etherpad-mozilla.org/p/ctls2017)
+
 
 ## Topic Index
 
